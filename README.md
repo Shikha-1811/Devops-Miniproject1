@@ -12,7 +12,7 @@ The website template was taken from **Tooplate (free website templates) and pack
 1. **Clone the repository**
    ```bash
       git clone https://github.com/Shikha-1811/Devops-Miniproject1
-      cd aquaocean/
+      cd Devops_Miniproject1/
 2. Build the docker image
    ```bash
       docker build -t miniproject1:latest .
